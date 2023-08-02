@@ -13,6 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Pipelines: The Warp Pipes Our World](https://medium.com/@christianknoxps/data-pipelines-the-warp-pipes-our-world-3bb32e23d3?source=rss-1b80276c27ea------2)
+- [The Mystery of Data Engineering Unveiled: A Scooby-Doo Adventure](https://medium.com/@christianknoxps/the-mystery-of-data-engineering-unveiled-a-scooby-doo-adventure-95a8e23dba06?source=rss-1b80276c27ea------2)
+- [React Basics](https://medium.com/@christianknoxps/react-basics-997a22f5c6bc?source=rss-1b80276c27ea------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
