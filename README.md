@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Christianps645@gmail.com**
 
-- ⚡ Fun fact **I won Valorant's first premier tournament**
+- ⚡ Fun fact **I have programmed across three timezones!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
