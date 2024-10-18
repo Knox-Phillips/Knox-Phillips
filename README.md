@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Knox-Phillips</h1>
 <h3 align="center">A passionate full stack developer from New York</h3>
 
-- 🌱 I’m currently learning **Data Engineering**
-
-- 📝 I regularly write articles on [https://medium.com/@christianknoxps](https://medium.com/@christianknoxps)
+- 🌱 I’m currently learning **Cloud Support Engineering**
 
 - 💬 Ask me about **React, Snowflake, Debugging**
 
